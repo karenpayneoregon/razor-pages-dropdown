@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DropDownWithSelects", "DropDownWithSelects\DropDownWithSelects.csproj", "{9FECEAD7-1B94-4A3A-8E3F-01275AAB1E25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Razor", "Razor", "{38C2ECC9-A57B-4DD8-85B6-2B7B5D5D68B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05541E5F-4894-4313-AAD7-80B0D2BFA16F}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FECEAD7-1B94-4A3A-8E3F-01275AAB1E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FECEAD7-1B94-4A3A-8E3F-01275AAB1E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FECEAD7-1B94-4A3A-8E3F-01275AAB1E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FECEAD7-1B94-4A3A-8E3F-01275AAB1E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9FECEAD7-1B94-4A3A-8E3F-01275AAB1E25} = {38C2ECC9-A57B-4DD8-85B6-2B7B5D5D68B4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FBBE0D-889D-45FE-B145-BDAAC585B84B}
+	EndGlobalSection
+EndGlobal
